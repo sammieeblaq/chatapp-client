@@ -7,7 +7,7 @@ import Chat from "./components/Chat/Chat";
 
 
 const App = () => (
-    <Router>git git 
+    <Router>
         <Route path="/"  exact component={Join} />
         <Route path="/chat" component={Chat} />
     </Router>
