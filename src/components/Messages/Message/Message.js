@@ -1,5 +1,5 @@
 import React from "react";
-
+// import emojiMart from "emoji-mart";
 import "./Message.css";
 
 const Message = ({ message: { user, text }, name }) => {
